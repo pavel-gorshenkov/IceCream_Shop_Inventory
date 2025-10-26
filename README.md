@@ -30,6 +30,8 @@ flutter pub get
 # Run the project
 flutter run
 
+```
+
 
 Designed for maintainability and scalability
 This project is a starting point for a Flutter application.
