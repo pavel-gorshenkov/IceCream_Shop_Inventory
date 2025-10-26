@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507847567546",
+    "project_id": "builderinventorytorico",
+    "storage_bucket": "builderinventorytorico.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507847567546:android:a0cbb591532a3fff4b3a83",
+        "android_client_info": {
+          "package_name": "com.example.layout_builder_inventory_torico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfkjw0Cp5sKLR0T5deuu-msP_3e3dqNLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
